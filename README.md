@@ -5,7 +5,7 @@ Core S3 and the Hitec HLS12 linear servo.
 # License: 
 Creative Commons Attribution 4.0 International CC BY 4.0
 
-![screenshot1](images/servo_holder.png)
+![screenshot1](images/device_side_view.png)
 
 
 
